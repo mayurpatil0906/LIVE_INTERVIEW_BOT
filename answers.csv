@@ -1,0 +1,105 @@
+Timestamp,Name,Email,College,Role,Question Type,Question,Answer
+2024-11-13 12:42:57,Mayur patil,mayurpatil@gmail.com,abc,java_developer,MCQ,What is the default value of a boolean in Java?,false
+2024-11-13 12:42:58,Mayur patil,mayurpatil@gmail.com,abc,java_developer,MCQ,What is JVM in Java?,Java Vendor Model
+2024-11-13 12:47:16,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,What does MERN stand for?,"MongoDB, Express, React Native, Node"
+2024-11-13 12:47:17,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,Which of the following is used for server-side programming in MERN?,Redux
+2024-11-13 12:55:50,Mayur patil,mayurpatil@gmail.com,abc,aiml_developer,MCQ,What is the purpose of a neural network?,Hardware acceleration
+2024-11-13 12:55:51,Mayur patil,mayurpatil@gmail.com,abc,aiml_developer,MCQ,Which language is most commonly used in AI/ML development?,Java
+2024-11-13 12:58:39,rohit,mayurpatil@gmail.com,axas,full_stack_developer,MCQ,Which language is primarily used for styling web pages?,SQL
+2024-11-13 12:58:40,rohit,mayurpatil@gmail.com,axas,full_stack_developer,MCQ,Which framework is commonly used with Node.js for web development?,Laravel
+2024-11-13 13:00:43,rohit,mayurpatil@gmail.com,axas,java_developer,MCQ,What is the default value of a boolean in Java?,undefined
+2024-11-13 13:00:45,rohit,mayurpatil@gmail.com,axas,java_developer,MCQ,What is JVM in Java?,Java Visual Monitor
+2024-11-13 13:00:50,rohit,mayurpatil@gmail.com,axas,java_developer,Q&A,Explain the concept of inheritance in Java.,Inheritance.
+2024-11-13 13:00:55,rohit,mayurpatil@gmail.com,axas,java_developer,Q&A,What are the key features of Java 8?,Javaid.
+2024-11-15 14:31:50,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2024-11-15 14:31:55,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 14:32:56,raju,raju70@gmail.com,MIT,java_developer,Q&A,Explain the concept of inheritance in Java.,"inheritance is inheriting the properties of parent class to the child class
+"
+2024-11-15 14:33:08,raju,raju70@gmail.com,MIT,java_developer,Q&A,What are the key features of Java 8?,na
+2024-11-15 17:08:18,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2024-11-15 17:08:43,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 17:09:38,raju,raju70@gmail.com,MIT,java_developer,Q&A,Explain the concept of inheritance in Java.,n
+2024-11-15 17:09:43,raju,raju70@gmail.com,MIT,java_developer,Q&A,What are the key features of Java 8?,n
+2024-11-15 17:19:59,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2024-11-15 17:20:15,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 17:22:27,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2024-11-15 17:22:29,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 17:22:34,raju,raju70@gmail.com,MIT,java_developer,Q&A,Explain the concept of inheritance in Java.,"n
+"
+2024-11-15 17:22:37,raju,raju70@gmail.com,MIT,java_developer,Q&A,What are the key features of Java 8?,n
+2024-11-15 17:26:36,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2024-11-15 17:26:38,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 17:28:53,raju,raju70@gmail.com,MIT,java_developer,Q&A,Explain the concept of inheritance in Java.,n
+2024-11-15 17:29:03,raju,raju70@gmail.com,MIT,java_developer,Q&A,What are the key features of Java 8?,"n
+"
+2024-11-15 17:34:47,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,null
+2024-11-15 17:34:49,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Vendor Model
+2024-11-15 17:36:35,raju,raju70@gmail.com,MIT,java_developer,Q&A,Explain the concept of inheritance in Java.,n
+2024-11-15 17:36:50,raju,raju70@gmail.com,MIT,java_developer,Q&A,What are the key features of Java 8?,n
+2024-11-15 17:45:52,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2024-11-15 17:45:55,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 17:46:55,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 17:47:54,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-15 17:48:01,raju,raju70@gmail.com,MIT,java_developer,Q&A,Explain the concept of inheritance in Java.,n
+2024-11-15 17:48:04,raju,raju70@gmail.com,MIT,java_developer,Q&A,What are the key features of Java 8?,n
+2024-11-17 14:05:57,raju,raju70@gmail.com,MIT,mern_stack_developer,MCQ,What does MERN stand for?,"MongoDB, Express, React, Node"
+2024-11-17 14:06:06,raju,raju70@gmail.com,MIT,mern_stack_developer,MCQ,Which of the following is used for server-side programming in MERN?,Express
+2024-11-17 14:06:24,raju,raju70@gmail.com,MIT,mern_stack_developer,Q&A,Explain the structure of a MERN stack application.,"n
+"
+2024-11-17 14:06:31,raju,raju70@gmail.com,MIT,mern_stack_developer,Q&A,How does Node.js handle asynchronous operations?,n
+2024-11-17 16:04:24,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2024-11-17 16:04:30,raju,raju70@gmail.com,MIT,java_developer,MCQ,What is JVM in Java?,Java Virtual Machine
+2024-11-17 16:04:42,raju,raju70@gmail.com,MIT,java_developer,Q&A,Explain the concept of inheritance in Java.,"n
+"
+2024-11-17 16:04:46,raju,raju70@gmail.com,MIT,java_developer,Q&A,What are the key features of Java 8?,"n
+"
+2024-11-17 16:05:50,tushar,raju70@gmail.com,AIISMS,full_stack_developer,MCQ,Which language is primarily used for styling web pages?,CSS
+2024-11-17 16:06:09,tushar,raju70@gmail.com,AIISMS,full_stack_developer,MCQ,Which framework is commonly used with Node.js for web development?,Express
+2024-11-18 12:42:29,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,What does MERN stand for?,"MySQL, Express, Ruby, Node"
+2024-11-18 12:42:31,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,Which of the following is used for server-side programming in MERN?,Express
+2024-11-18 12:42:47,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,Q&A,Explain the structure of a MERN stack application.,Hello.
+2024-11-18 12:42:59,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,Q&A,How does Node.js handle asynchronous operations?,Hello.
+2024-11-18 17:14:25,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,What does MERN stand for?,"MongoDB, EJS, Redux, Node"
+2024-11-18 17:14:29,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,Which of the following is used for server-side programming in MERN?,Redux
+2024-11-18 17:14:56,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,Q&A,Explain the structure of a MERN stack application.,Structure.
+2024-11-18 17:15:03,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,Q&A,How does Node.js handle asynchronous operations?,Node JS.
+2024-11-18 17:16:45,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,What does MERN stand for?,"MySQL, Express, Ruby, Node"
+2024-11-18 17:16:48,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,MCQ,Which of the following is used for server-side programming in MERN?,React
+2024-11-18 17:16:57,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,Q&A,Explain the structure of a MERN stack application.,Months.
+2024-11-18 17:17:11,Mayur patil,mayurpatil@gmail.com,abc,mern_stack_developer,Q&A,How does Node.js handle asynchronous operations?,Not JS.
+2025-01-28 15:55:59,Mayur patil,mayurpatil@gmail.com,abc,aiml_developer,MCQ,What is the purpose of a neural network?,Data storage
+2025-01-28 15:56:01,Mayur patil,mayurpatil@gmail.com,abc,aiml_developer,MCQ,Which language is most commonly used in AI/ML development?,C++
+2025-03-30 23:22:04,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is the default value of a boolean in Java?,true
+2025-03-30 23:22:07,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is JVM in Java?,Java Vendor Model
+2025-04-21 13:00:32,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,full_stack_developer,MCQ,Which language is primarily used for styling web pages?,JavaScript
+2025-04-21 13:00:37,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,full_stack_developer,MCQ,Which framework is commonly used with Node.js for web development?,Django
+2025-04-21 13:00:52,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,full_stack_developer,Q&A,Explain the difference between front-end and back-end development.,09ii0oji0j
+2025-04-21 13:00:57,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,full_stack_developer,Q&A,What are the pros and cons of using React over Angular?,-0-pl-p
+2025-04-21 13:01:21,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is the default value of a boolean in Java?,null
+2025-04-21 13:01:24,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is JVM in Java?,Java Verified Mode
+2025-04-21 13:01:32,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,Q&A,Explain the concept of inheritance in Java.,gfdxg
+2025-04-21 13:01:48,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is JVM in Java?,Java Verified Mode
+2025-04-21 13:02:06,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,Q&A,Explain the concept of inheritance in Java.,jiji
+2025-04-21 13:02:17,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,java_developer,Q&A,What are the key features of Java 8?,ghfhfrh
+2025-04-25 14:13:17,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,mern_stack_developer,MCQ,What does MERN stand for?,"MongoDB, EJS, Redux, Node"
+2025-04-25 14:13:19,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,mern_stack_developer,MCQ,Which of the following is used for server-side programming in MERN?,React
+2025-04-25 14:13:32,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,mern_stack_developer,Q&A,Explain the structure of a MERN stack application.,. kl  ip
+2025-04-25 14:13:37,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,tst,mern_stack_developer,Q&A,How does Node.js handle asynchronous operations?,jniuhi
+2025-04-26 00:29:13,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,MCQ,What is the purpose of a neural network?,Data storage
+2025-04-26 00:29:16,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,MCQ,Which language is most commonly used in AI/ML development?,C++
+2025-04-26 00:29:29,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,Q&A,What is supervised learning in machine learning?,hello
+2025-04-26 00:29:37,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,Q&A,Explain the concept of a decision tree.,Shimla
+2025-04-26 09:33:55,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,MCQ,What is the purpose of a neural network?,Learning from data
+2025-04-26 09:33:58,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,MCQ,Which language is most commonly used in AI/ML development?,JavaScript
+2025-04-26 09:34:16,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,Q&A,What is supervised learning in machine learning?,hello hello
+2025-04-26 09:34:25,PATIL MAYUR PANDHARINATH ,mayurpatill0906@gmail.com,dada,aiml_developer,Q&A,Explain the concept of a decision tree.,decision tree
+2025-04-26 11:44:07,cdac,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is the default value of a boolean in Java?,false
+2025-04-26 11:44:12,cdac,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is JVM in Java?,Java Vendor Model
+2025-04-26 11:49:57,cdac,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is JVM in Java?,Java Vendor Model
+2025-04-26 11:50:28,cdac,mayurpatill0906@gmail.com,tst,java_developer,Q&A,Explain the concept of inheritance in Java.,nbuyb
+2025-04-26 11:50:32,cdac,mayurpatill0906@gmail.com,tst,java_developer,Q&A,What are the key features of Java 8?,jhbub
+2025-04-26 11:53:05,cdac,mayurpatill0906@gmail.com,dada,full_stack_developer,MCQ,Which language is primarily used for styling web pages?,SQL
+2025-04-26 11:53:07,cdac,mayurpatill0906@gmail.com,dada,full_stack_developer,MCQ,Which framework is commonly used with Node.js for web development?,Laravel
+2025-04-26 11:53:55,cdac,mayurpatill0906@gmail.com,dada,full_stack_developer,Q&A,Explain the difference between front-end and back-end development.,yyy
+2025-04-30 09:47:47,cdac,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is the default value of a boolean in Java?,null
+2025-04-30 09:47:49,cdac,mayurpatill0906@gmail.com,tst,java_developer,MCQ,What is JVM in Java?,Java Visual Monitor

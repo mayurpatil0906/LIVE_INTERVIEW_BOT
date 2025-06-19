@@ -1,0 +1,414 @@
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: Paris
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: HTML
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.14
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Mars
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: London
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: Java
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.16
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Jupiter
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: London
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: Java
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.18
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Mars
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: London
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: HTML
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.20
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Saturn
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: Explain the difference between deep learning and machine learning.
+Answer: bngh
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: What is the purpose of an algorithm?
+Answer: gfhjfg
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: How does a neural network work?
+Answer: gjfghj
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: What are the key differences between Python 2 and Python 3?
+Answer: fjfhgj
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: London
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: HTML
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.20
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Mars
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: London
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: HTML
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.16
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Jupiter
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: Explain the difference between deep learning and machine learning.
+Answer: 
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: Paris
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: HTML
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.20
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Mars
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: Explain the difference between deep learning and machine learning.
+Answer: ept sr.RequestError:
+        print("There was an error with the speech recognition service.")
+        ret
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: What is the purpose of an algorithm?
+Answer: ept sr.RequestError:
+        print("There was an error with the speech recognition service.")
+        ret
+ept sr.RequestError:
+        print("There was an error with the speech recognition service.")
+        ret
+
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: How does a neural network work?
+Answer: ept sr.RequestError:
+        print("There was an error with the speech recognition service.")
+        ret
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Q&A Question: What are the key differences between Python 2 and Python 3?
+Answer: ept sr.RequestError:
+        print("There was an error with the speech recognition service.")
+        ret
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the capital of France?
+Answer: Paris
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which language is used for web development?
+Answer: HTML
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: What is the value of pi?
+Answer: 3.20
+
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+MCQ Question: Which is the largest planet in our solar system?
+Answer: Earth
+
+Timestamp: 2024-11-12 12:20:04
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: MCQ
+Question 1: What is the capital of France?
+Answer: Paris
+
+Timestamp: 2024-11-12 12:20:06
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: MCQ
+Question 2: Which language is used for web development?
+Answer: Python
+
+Timestamp: 2024-11-12 12:20:08
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: MCQ
+Question 3: What is the value of pi?
+Answer: 3.14
+
+Timestamp: 2024-11-12 12:20:09
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: MCQ
+Question 4: Which is the largest planet in our solar system?
+Answer: Earth
+
+Timestamp: 2024-11-12 12:20:12
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: Q&A
+Question 1: Explain the difference between deep learning and machine learning.
+Answer: gfgdfg
+
+Timestamp: 2024-11-12 12:20:13
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: Q&A
+Question 2: What is the purpose of an algorithm?
+Answer: fdsfgdsg
+
+Timestamp: 2024-11-12 12:20:14
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: Q&A
+Question 3: How does a neural network work?
+Answer: dfsdfgsfdg
+
+Timestamp: 2024-11-12 12:20:16
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Question Type: Q&A
+Question 4: What are the key differences between Python 2 and Python 3?
+Answer: ddfsgdsfg
+
+2024-11-12 12:22:26, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the capital of France?, Paris
+2024-11-12 12:22:28, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which language is used for web development?, C++
+2024-11-12 12:22:29, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the value of pi?, 3.18
+2024-11-12 12:22:30, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Saturn
+2024-11-12 12:22:32, Mayur patil, mayurpatil@gmail.com, abc, Q&A, Explain the difference between deep learning and machine learning., sefsd
+2024-11-12 12:22:37, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What is the purpose of an algorithm?, ddsfsf
+2024-11-12 12:22:39, Mayur patil, mayurpatil@gmail.com, abc, Q&A, How does a neural network work?, cvsxvxc
+2024-11-12 12:22:41, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What are the key differences between Python 2 and Python 3?, svgsdfbxf
+2024-11-12 12:45:07, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the capital of France?, Madrid
+2024-11-12 12:45:08, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which language is used for web development?, C++
+2024-11-12 12:45:10, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the value of pi?, 3.18
+2024-11-12 12:45:11, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Saturn
+2024-11-12 12:46:43, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the capital of France?, Madrid
+2024-11-12 12:46:44, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which language is used for web development?, C++
+2024-11-12 12:46:45, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the value of pi?, 3.18
+2024-11-12 12:46:46, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Saturn
+2024-11-12 12:46:48, Mayur patil, mayurpatil@gmail.com, abc, Q&A, Explain the difference between deep learning and machine learning., vsdvsdv
+2024-11-12 12:46:50, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What is the purpose of an algorithm?, fdsfsd
+2024-11-12 12:46:51, Mayur patil, mayurpatil@gmail.com, abc, Q&A, How does a neural network work?, vsv
+2024-11-12 12:46:52, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What are the key differences between Python 2 and Python 3?, sfv
+2024-11-12 12:48:54, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the capital of France?, London
+2024-11-12 12:48:55, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which language is used for web development?, C++
+2024-11-12 12:48:56, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the value of pi?, 3.20
+2024-11-12 12:48:57, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Mars
+2024-11-12 12:48:59, Mayur patil, mayurpatil@gmail.com, abc, Q&A, Explain the difference between deep learning and machine learning., vbfdsb
+2024-11-12 12:49:00, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What is the purpose of an algorithm?, gdsg
+2024-11-12 12:49:03, Mayur patil, mayurpatil@gmail.com, abc, Q&A, How does a neural network work?, fgsfg
+2024-11-12 12:49:04, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What are the key differences between Python 2 and Python 3?, gsdfg
+2024-11-12 12:50:04, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the capital of France?, Berlin
+2024-11-12 12:50:05, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which language is used for web development?, C++
+2024-11-12 12:50:06, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the value of pi?, 3.20
+2024-11-12 12:50:07, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Mars
+2024-11-12 12:50:11, Mayur patil, mayurpatil@gmail.com, abc, Q&A, Explain the difference between deep learning and machine learning., fsadfvsdv
+2024-11-12 12:50:13, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What is the purpose of an algorithm?, vcfsdfvsdv
+2024-11-12 12:50:15, Mayur patil, mayurpatil@gmail.com, abc, Q&A, How does a neural network work?, sdvsfdv
+2024-11-12 12:50:16, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What are the key differences between Python 2 and Python 3?, sfdvgsv
+2024-11-12 12:53:23, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the capital of France?, Madrid
+2024-11-12 12:53:31, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which language is used for web development?, Java
+2024-11-12 12:53:33, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the value of pi?, 3.20
+2024-11-12 12:53:34, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Mars
+2024-11-12 12:54:16, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Mars
+2024-11-12 12:54:53, Mayur patil, mayurpatil@gmail.com, abc, Q&A, Explain the difference between deep learning and machine learning., gfdhdfh
+2024-11-12 12:54:55, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What is the purpose of an algorithm?, ghh
+2024-11-12 12:54:57, Mayur patil, mayurpatil@gmail.com, abc, Q&A, How does a neural network work?, hghgfhgfh
+2024-11-12 12:54:58, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What are the key differences between Python 2 and Python 3?, ghgfhgh
+2024-11-12 17:44:40, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the capital of France?, Madrid
+2024-11-12 17:44:42, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which language is used for web development?, C++
+2024-11-12 17:44:44, Mayur patil, mayurpatil@gmail.com, abc, MCQ, What is the value of pi?, 3.18
+2024-11-12 17:44:46, Mayur patil, mayurpatil@gmail.com, abc, MCQ, Which is the largest planet in our solar system?, Saturn
+2024-11-12 17:44:54, Mayur patil, mayurpatil@gmail.com, abc, Q&A, Explain the difference between deep learning and machine learning., mahfifef
+2024-11-12 17:44:58, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What is the purpose of an algorithm?, ojnssovufsnv 
+2024-11-12 17:45:01, Mayur patil, mayurpatil@gmail.com, abc, Q&A, How does a neural network work?, njvojsnvuos
+2024-11-12 17:45:04, Mayur patil, mayurpatil@gmail.com, abc, Q&A, What are the key differences between Python 2 and Python 3?, jnsvjsnvosnv
+2024-11-12 17:51:27, Mayur patil, mayurpatil@gmail.com, abc, full_stack_developer, MCQ, Which language is primarily used for styling web pages?, JavaScript
+2024-11-12 17:51:29, Mayur patil, mayurpatil@gmail.com, abc, full_stack_developer, MCQ, Which framework is commonly used with Node.js for web development?, Laravel
+2024-11-12 17:51:33, Mayur patil, mayurpatil@gmail.com, abc, full_stack_developer, Q&A, Explain the difference between front-end and back-end development., vfsvfsvdsvdsv
+2024-11-12 17:51:38, Mayur patil, mayurpatil@gmail.com, abc, full_stack_developer, Q&A, What are the pros and cons of using React over Angular?, fbfdfdfb
+2024-11-12 18:02:37, Mayur patil, mayurpatil@gmail.com, abc, mern_stack_developer, MCQ, What does MERN stand for?, MongoDB, Express, React Native, Node
+2024-11-12 18:02:39, Mayur patil, mayurpatil@gmail.com, abc, mern_stack_developer, MCQ, Which of the following is used for server-side programming in MERN?, Redux
+2024-11-12 18:04:15, Mayur patil, mayurpatil@gmail.com, abc, aiml_developer, MCQ, What is the purpose of a neural network?, Hardware acceleration
+2024-11-12 18:04:17, Mayur patil, mayurpatil@gmail.com, abc, aiml_developer, MCQ, Which language is most commonly used in AI/ML development?, Java
+2024-11-12 18:04:42, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, undefined
+2024-11-12 18:04:44, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Visual Monitor
+2024-11-12 22:57:36, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, undefined
+2024-11-12 22:57:37, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Visual Monitor
+2024-11-13 12:17:22, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, undefined
+2024-11-13 12:17:24, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Visual Monitor
+2024-11-13 12:20:50, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, undefined
+2024-11-13 12:20:51, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Visual Monitor
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+2024-11-13 12:22:21, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, undefined
+2024-11-13 12:22:22, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Visual Monitor
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+2024-11-13 12:31:29, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, false
+2024-11-13 12:31:31, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Vendor Model
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc
+2024-11-13 12:37:04, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, undefined
+2024-11-13 12:37:05, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Visual Monitor
+2024-11-13 12:40:15, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is the default value of a boolean in Java?, true
+2024-11-13 12:40:17, Mayur patil, mayurpatil@gmail.com, abc, java_developer, MCQ, What is JVM in Java?, Java Verified Mode
+Name: Mayur patil
+Email: mayurpatil@gmail.com
+College: abc

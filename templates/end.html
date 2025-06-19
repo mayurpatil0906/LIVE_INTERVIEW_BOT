@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Completed</title>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #4f46e5, #3b82f6);
+            color: #fff;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            animation: slideIn 1s ease-in-out;
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-top: 1rem;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        .button {
+            margin-top: 2rem;
+            display: inline-block;
+            padding: 0.8rem 2rem;
+            font-size: 1rem;
+            color: #4f46e5;
+            background: #fff;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .button:hover {
+            background: #e0e7ff;
+            transform: scale(1.1);
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideIn {
+            0% {
+                transform: translateY(-50px);
+                opacity: 0;
+            }
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        /* Background animations */
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            z-index: -1;
+        }
+
+        .bubble {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            animation: float 8s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0% {
+                transform: translateY(0px) scale(1);
+                opacity: 1;
+            }
+            50% {
+                transform: translateY(-100px) scale(1.2);
+                opacity: 0.8;
+            }
+            100% {
+                transform: translateY(0px) scale(1);
+                opacity: 1;
+            }
+        }
+
+        .bubble:nth-child(1) {
+            width: 80px;
+            height: 80px;
+            bottom: 10%;
+            left: 20%;
+            animation-duration: 10s;
+            animation-delay: 0s;
+        }
+
+        .bubble:nth-child(2) {
+            width: 50px;
+            height: 50px;
+            bottom: 20%;
+            left: 50%;
+            animation-duration: 8s;
+            animation-delay: 2s;
+        }
+
+        .bubble:nth-child(3) {
+            width: 100px;
+            height: 100px;
+            bottom: 15%;
+            left: 70%;
+            animation-duration: 12s;
+            animation-delay: 4s;
+        }
+
+        .bubble:nth-child(4) {
+            width: 60px;
+            height: 60px;
+            bottom: 25%;
+            left: 40%;
+            animation-duration: 14s;
+            animation-delay: 6s;
+        }
+
+        .bubble:nth-child(5) {
+            width: 40px;
+            height: 40px;
+            bottom: 10%;
+            left: 10%;
+            animation-duration: 9s;
+            animation-delay: 1s;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>🎉 Congratulations! 🎉</h1>
+        <p>Thank you for completing the interview! We appreciate your time and effort.</p>
+        <p>Our team will review your responses and get back to you soon.</p>
+        <a href="/start" class="button">Return to Start</a>
+    </div>
+
+    <!-- Animated Background -->
+    <div class="background">
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+    </div>
+
+</body>
+</html>

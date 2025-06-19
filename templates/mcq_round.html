@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCQ Round</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           
+            color: #fff;
+        }
+
+        .container {
+            background: #ffffff;
+            color: #333;
+            width: 90%;
+            max-width: 700px;
+            height: 95vh;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #3b82f6, #9333ea);
+            padding: 15px;
+            text-align: center;
+            color: #fff;
+            font-size: 20px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .content {
+            padding: 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+        }
+
+        .question {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 100%;
+        }
+
+        .options label {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            background: #f3f4f6;
+            border: 2px solid transparent;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .options input[type="radio"] {
+            margin-right: 10px;
+            transform: scale(1.2);
+        }
+
+        .options label:hover {
+            background: #e0f2fe;
+            border-color: #3b82f6;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background: linear-gradient(135deg, #9333ea, #3b82f6);
+            color: #fff;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            background: linear-gradient(135deg, #3b82f6, #9333ea);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+            transform: translateY(-3px);
+        }
+
+        .webcam-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+            width: 100%;
+            max-height: 250px; /* Limit webcam height */
+            overflow: hidden;
+        }
+
+        .webcam-container video {
+            border-radius: 10px;
+            border: 3px solid #3b82f6;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+        }
+
+        .footer {
+            padding: 10px;
+            text-align: center;
+            background: #f3f4f6;
+            font-size: 14px;
+            color: #6b7280;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            MCQ Round
+        </div>
+        <div class="content">
+            <div class="question">{{ question['question'] }}</div>
+            <form method="POST" style="width: 100%;">
+                <div class="options">
+                    {% for option in question['options'] %}
+                        <label>
+                            <input type="radio" name="answer" value="{{ option }}" required> {{ option }}
+                        </label>
+                    {% endfor %}
+                </div>
+                <input type="hidden" name="name" value="{{ name }}">
+                <input type="hidden" name="email" value="{{ email }}">
+                <input type="hidden" name="college" value="{{ college }}">
+                <input type="hidden" name="question_num" value="{{ question_num }}">
+                <button type="submit">Submit Answer</button>
+            </form>
+            <div class="webcam-container">
+                <h3 style="font-size: 16px; color: #3b82f6;">Webcam Feed</h3>
+                <video id="webcam" autoplay></video>
+            </div>
+        </div>
+        <div class="footer">
+            &copy; 2024 MCQ Bot | All Rights Reserved
+        </div>
+    </div>
+
+    <script>
+        // Start webcam stream
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(function (stream) {
+                document.getElementById('webcam').srcObject = stream;
+            })
+            .catch(function (error) {
+                console.error("Error accessing webcam: ", error);
+            });
+    </script>
+
+</body>
+</html>
